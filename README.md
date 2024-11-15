@@ -3,12 +3,14 @@ NIM : H1D021022
 
 1. Screenshoot
    Halaman Login
-   ![Screenshot Login](path/to/screenshot-login.png)
+   ![Screenshot Login](https://github.com/yosijulia31/YOSIJULIAUTAMI_H1D021022_IonicVueFirebase/blob/master/screenshoot/Screenshot%20(208).png)
    Halaman Home
-   ![Screenshot Login](path/to/screenshot-login.png)
-   Halaman
-   ![Screenshot Login](path/to/screenshot-login.png)
-2. Langkah-Langkah Autentikasi Login Google di Aplikasi Ionic 8
+    ![Screenshot Login](https://github.com/yosijulia31/YOSIJULIAUTAMI_H1D021022_IonicVueFirebase/blob/master/screenshoot/Screenshot%20(209).png)
+   Halaman Profile
+   ![Screenshot Login](https://github.com/yosijulia31/YOSIJULIAUTAMI_H1D021022_IonicVueFirebase/blob/master/screenshoot/Screenshot%20(210).png)
+   Ketika klik tombol logout maka akan kembali di halaman login
+    ![Screenshot Login](https://github.com/yosijulia31/YOSIJULIAUTAMI_H1D021022_IonicVueFirebase/blob/master/screenshoot/Screenshot%20(211).png)
+3. Langkah-Langkah Autentikasi Login Google di Aplikasi Ionic 8
    - Setup Firebase : pertama, buat project di firebase console. lalu tambahkan aplikasi android/iOs, aktifkan metode sign-in google di "authentication" > "sign-in method" dan konfigurasi.
    - Membuat project ionic dan Install package Firebase di ionic 'npm install pinia firebase'
    - Pada pembuatan project, Konfigurasi Firebase menghubungkan aplikasi Ionic ke server Firebase tertentu dengan menggunakan kredensial proyek.
