@@ -1,5 +1,5 @@
-Nama : Yosi Julia Utami
-NIM : H1D021022
+- Nama : Yosi Julia Utami
+- NIM : H1D021022
 
 1. Screenshoot
    Halaman Login
